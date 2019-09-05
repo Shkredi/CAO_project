@@ -3,6 +3,10 @@ Calendar of Astronomical Observations can help you, if you don`t know what to wa
 
 ---
 
+At this moment, the program parses information of exciting object for observation and calculate the time of rising and setting. So you can choose what you are interested in and figure out the possible time for observing in a few minutes.
+
+---
+
 Files:
 
 data_parse.py     - Parsing data from the Internet
