@@ -2,6 +2,8 @@
 Calendar of Astronomical Observations can help you, if you don`t know what to watch trough telescope.
 
 
+
+
 Files:
 data_parse.py     - Parsing data from the Internet
 
@@ -10,6 +12,8 @@ convertor.py      - Conversion of different formats
 observ_object.py  - Class of observing object
 
 main.py           - Main program
+
+
 
 
 Instruction:
